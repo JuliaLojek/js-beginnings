@@ -10,3 +10,23 @@ function logResult(){
 }
 
 logResult();
+
+
+var a = "7";
+var b = 5;
+
+function normal(){
+    console.log(a*b);
+}
+
+normal();
+
+
+
+var myArray = [];
+
+myArray[0] = 25;
+myArray[1] = true;
+myArray[2] = "hello";
+
+console.log(myArray);
