@@ -48,3 +48,21 @@ body{
     text-transform: uppercase;
     cursor: pointer;
 }
+
+#disco{
+    display: block;
+    width: 500px;
+    margin: 40px auto;
+    padding: 30px;
+    border: none;
+    text-align: center;
+    color: #fff;
+    font-size: 24px;
+    text-transform: uppercase;
+    background-color: salmon;
+    cursor: pointer;
+
+    -webkit-transition: background-color 0.1s;
+    -moz-transition: background-color 0.1s;
+    transition: background-color 0.1s;
+}
